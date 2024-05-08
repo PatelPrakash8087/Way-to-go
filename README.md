@@ -19,9 +19,7 @@
 <br />
 <div align="center">
 
-  <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Logo.png" alt="Logo" width="200" height="200">
-  </a> 
+  
 
 
 <h1 align="center">Way to Go</h1>
