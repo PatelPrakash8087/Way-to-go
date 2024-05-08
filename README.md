@@ -85,19 +85,7 @@ At the heart of Way To Go is a unique block-based programming system, inspired b
 Way To Go harnesses the power of Firebase to offer a seamless integration of user progress and community engagement. Store your meditation milestones, track your spiritual growth, and connect with fellow seekers for shared insights and encouragement. Cultivate a supportive ecosystem for personal development and journey towards self-discovery.
 
 With Way To Go, users can cultivate a deeper connection with themselves and the universe, fostering harmony between mind, body, and spirit through the transformative practices of yoga and meditation. Start your journey to inner peace and self-discovery today with Way To Go.
-### Features
 
-1. `knowledge`: This feature provides access to a repository of information on various topics. It includes articles, explanations, and answers to frequently asked questions. 
- 
-2. `Schedules`:  The Schedules feature helps users organize their time by allowing them to create, manage, and track schedules for various activities or events.
- 
-3. `Gallery`: The Gallery feature provides a platform for users to upload, view, and share images or multimedia content.
- 
-4. `Activities`:  Activities feature offers users opportunities to engage in various tasks, challenges, or events either individually or collaboratively.
- 
-5. `News`:  The News feature delivers timely updates on current events, trends, and developments from around the world.
- 
-6. `Branches`: The Branches feature provides information about physical locations or branches of a business, organization, or institution.
 
 <!--
 ### Installation
