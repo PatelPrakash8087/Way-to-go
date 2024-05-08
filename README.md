@@ -26,19 +26,7 @@
 
 <h1 align="center">Way to Go</h1>
 
-  <p align="center">
-     Curtain Avenue : real client project for curtain stores.
-    <br />
-    <br />
-    <br />    ·
-     <!--
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-     -->
-  </p>
-</div>
-
+  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
