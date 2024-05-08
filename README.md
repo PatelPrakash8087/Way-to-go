@@ -22,7 +22,7 @@
   </a> 
 
 
-<h1 align="center">Saket Sweet</h1>
+<h1 align="center">Way to Go</h1>
 
   
 <!-- ABOUT THE PROJECT -->
@@ -78,14 +78,13 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Darshan Yog Journey is an immersive Flutter-based mobile application that invites users to embark on a spiritual journey through a serene virtual sanctuary. Within this app, users will guide a yog character through various meditative challenges and yoga practices, fostering inner peace and self-discovery along the way.
+Welcome to Way To Go, a transformative mobile experience designed to guide users on a journey of self-discovery and inner peace. Embrace a path of mindfulness and spiritual growth as you embark on this immersive adventure through a serene virtual sanctuary.
 
-The essence of Darshan Yog Journey lies in its utilization of a block-based programming system, akin to yoga asanas, to navigate the character through tranquil landscapes and mindfulness exercises. Through intuitive drag-and-drop actions, users will seamlessly orchestrate the yog movements, mirroring the flow of energy and focus in real-life yoga practice.
+At the heart of Way To Go is a unique block-based programming system, inspired by the fluidity of yoga practice, allowing users to navigate their character through tranquil landscapes and mindfulness exercises with intuitive drag-and-drop actions. Seamlessly orchestrate yog movements, mirroring the flow of energy and focus in real-life yoga practice.
 
-Powered by Firebase, Darshan Yog Journey offers a seamless integration of user progress and community engagement. Users can store their meditation milestones, track their spiritual growth, and connect with fellow practitioners for shared insights and encouragement, creating a supportive ecosystem for personal development.
+Way To Go harnesses the power of Firebase to offer a seamless integration of user progress and community engagement. Store your meditation milestones, track your spiritual growth, and connect with fellow seekers for shared insights and encouragement. Cultivate a supportive ecosystem for personal development and journey towards self-discovery.
 
-With Darshan Yog Journey, users can cultivate a deeper connection with themselves and the universe, fostering harmony between mind, body, and spirit through the transformative power of yoga and meditation.
-
+With Way To Go, users can cultivate a deeper connection with themselves and the universe, fostering harmony between mind, body, and spirit through the transformative practices of yoga and meditation. Start your journey to inner peace and self-discovery today with Way To Go.
 ### Features
 
 1. `knowledge`: This feature provides access to a repository of information on various topics. It includes articles, explanations, and answers to frequently asked questions. 
