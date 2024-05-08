@@ -25,7 +25,7 @@
   </a> 
 
 
-<h1 align="center">Darshanyog Dham</h1>
+<h1 align="center">Way to Go</h1>
 
   <p align="center">
      Curtain Avenue : real client project for curtain stores.
