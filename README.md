@@ -44,28 +44,28 @@
 ## About The Project
 
 <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Change_your_password.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/log_in.JPEG" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Edit_profile.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Register.JPEG" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Event_Schedule.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Home.JPEG" alt="Logo" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Log_out.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/People.JPEG" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Profile.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Location.JPEG" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Redister_Event.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/How_much.JPEG" alt="Logo" width="200" height="400">
   </a> 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/Redister_Event.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/How_far.JPEG" alt="Logo" width="200" height="400">
   </a>
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assets/home_page.JPEG" alt="Logo" width="200" height="400">
+    <img src="assets/Destination.JPEG" alt="Logo" width="200" height="400">
   </a>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
